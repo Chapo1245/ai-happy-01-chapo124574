@@ -1,9 +1,9 @@
-# ai-happy-01 — "Dear Judge, I caught the first snowflake."
+# ai-happy-01 — "Dear Judge, I kept your seat warm."
 
-A "Dear Judge" letter on taped lined paper from a tiny penguin: it
-caught the first snowflake of the night and kept it in a matchbox for
-the judge. Taped watercolour photo of the penguin and its matchbox
-below the letter.
+A "Dear Judge" letter on taped lined paper from a small cat: it sat
+in the judge's chair all day so the seat would be warm when the
+judge came back. Taped watercolour photo of the sleeping cat, its
+cushion and a steaming mug below the letter, with a little "YOU" tag.
 
 ## How it works
 
@@ -14,8 +14,9 @@ stdlib only) copies it to `/output/entry.png` — the simplest entry
 form the kit explicitly allows. Deterministic: the same bytes are
 copied on every run.
 
-Variant D2 (primary). Variant D1 (cat, "I kept your seat warm") is in
-the git history; D2 self-graded best against the leaders.
+Variant D1 (second). Variant D2 (penguin, "I caught the first
+snowflake") is in the git history and self-graded best; this commit
+keeps D1 as the recorded second variant.
 
 ## License
 
