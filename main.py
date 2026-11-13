@@ -1,12 +1,13 @@
 """ai-happy-01 entry: deliver the pre-rendered entry image.
 
-The image (entry.png beside this file) is a procedural storybook
-illustration: a small round robot offers a big yellow sunflower to a
-laughing little girl in a golden-hour park, with rolling hills,
-butterflies and small sunflowers framing the scene. It was drawn at
-build time; at grading time this program only needs the Python 3.13
-standard library. It copies the image to the output directory
-(MAKEFUN_OUTPUT_DIR, default /output) as entry.png.
+The image (entry.png beside this file) is a "Dear Judge" letter on
+taped lined paper: a tiny penguin writes that it caught the first
+snowflake of the night and kept it in a matchbox for the judge, with
+a taped watercolour photo of the penguin and its matchbox below the
+letter. The letter was composed at build time; at grading time this
+program only needs the Python 3.13 standard library. It copies the
+image to the output directory (MAKEFUN_OUTPUT_DIR, default /output)
+as entry.png.
 
 Deterministic by construction: the same source bytes are copied on
 every run, so two runs produce byte-identical outputs.
